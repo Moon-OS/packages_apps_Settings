@@ -46,5 +46,8 @@
     <string name="navbar_length">Comprimento da barra de gestos</string>
     <string name="hidden_label">Escondida</string>
     <string name="long_label">Longa</string>
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">Deslize para a captura de tela</string>
+    <string name="three_finger_gesture_summary">Deslize para baixo com três dedos para fazer uma captura de tela</string>
 
 </resources>
