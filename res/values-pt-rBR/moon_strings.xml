@@ -18,4 +18,22 @@
     <string name="selinux_status_permissive">Permissivo</string>
     <string name="selinux_status_enforcing">Impondo</string>
 
+    <!-- Adaptive Playback -->
+    <string name="adaptive_playback_screen_title">Reprodução adaptativa</string>
+    <string name="adaptive_playback_disabled_summary">Desligado</string>
+    <string name="adaptive_playback_timeout_title">Use um tempo limite de</string>
+    <string name="adaptive_playback_timeout_none">Sem tempo limite</string>
+    <string name="adaptive_playback_timeout_none_summary">Ligado (sem tempo limite)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 segundos</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">Ligado (30 segundos)</string>
+    <string name="adaptive_playback_timeout_1_min">1 minuto</string>
+    <string name="adaptive_playback_timeout_1_min_summary">Ligado (1 minuto)</string>
+    <string name="adaptive_playback_timeout_2_min">2 minutos</string>
+    <string name="adaptive_playback_timeout_2_min_summary">Ligado (2 minutos)</string>
+    <string name="adaptive_playback_timeout_5_min">5 minutos</string>
+    <string name="adaptive_playback_timeout_5_min_summary">Ligado (5 minutos)</string>
+    <string name="adaptive_playback_timeout_10_min">10 minutos</string>
+    <string name="adaptive_playback_timeout_10_min_summary">Ligado (10 minutos)</string>
+
+
 </resources>
