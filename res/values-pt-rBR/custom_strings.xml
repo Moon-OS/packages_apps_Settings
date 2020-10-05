@@ -44,7 +44,7 @@
 
     <!-- Navbar length -->
     <string name="navbar_length">Comprimento da barra de gestos</string>
-    <string name="short_label">Curta</string>
+    <string name="hidden_label">Escondida</string>
     <string name="long_label">Longa</string>
 
 </resources>
