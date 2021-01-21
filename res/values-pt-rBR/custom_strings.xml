@@ -12,6 +12,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- MoonOS version -->
+    <string name="moon_version">Versão da MoonOS</string>
+
     <!-- SELinux Status -->
     <string name="selinux_status">Status do SELinux</string>
     <string name="selinux_status_disabled">Desativado</string>
