@@ -38,5 +38,8 @@
     <string name="adaptive_playback_timeout_10_min">10 minutos</string>
     <string name="adaptive_playback_timeout_10_min_summary">Ligado (10 minutos)</string>
 
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Ativar reboot avançado</string>
+    <string name="global_actions_advanced_reboot_summary">Mostrar opções para recovery e bootloader</string>
 
 </resources>
